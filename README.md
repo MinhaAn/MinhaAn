@@ -1,4 +1,7 @@
 # Introduction
 
-## Description
-This is my introduction.
+## Career
+
+- Mobile application software developer at Bosch Rexroth
+- MATLAB Simulink tool developer
+
